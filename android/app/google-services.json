@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "590818736381",
+    "firebase_url": "https://therhappy-7bb65-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "therhappy-7bb65",
+    "storage_bucket": "therhappy-7bb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590818736381:android:66640a79f219873e972694",
+        "android_client_info": {
+          "package_name": "com.example.therhappy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxtLumLREufq5fGLipwzn5TheYlLq8MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
